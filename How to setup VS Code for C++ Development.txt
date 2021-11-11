@@ -1,0 +1,20 @@
+PROCEDURE
+
+1. Download and install visual studio
+https://code.visualstudio.com
+
+2. Install the C++ extension for VS code
+https://code.visualstudio.com/docs/languages/cpp
+   i.  Open VS Code.
+   ii.  Select the Extensions view icon on the Activity bar or use the keyboard shortcut (Ctrl+Shift+X).
+   iii. Search for 'C++'.
+   iv.  Select Install.
+
+3. Download and install the g++ compiler
+https://code.visualstudio.com/docs/cpp/config-mingw
+
+4. Restart your computer
+5. Test to confirm that g++ is installed correctly
+    g++ --version
+    gdb --version
+6. Create you application and run it
